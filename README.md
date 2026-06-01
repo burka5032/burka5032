@@ -26,9 +26,7 @@
 
 ---
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:14A800&height=140&section=header"/>
-</p>
+
 
 # 🌌 About Me
 
@@ -133,6 +131,4 @@
 ✨ Thanks for visiting my profile ✨
 </p>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14A800,100:00F7FF&height=140&section=footer"/>
-</p>
+
